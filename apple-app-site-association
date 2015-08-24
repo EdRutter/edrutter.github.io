@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": {
+      "7J627WCNB7.com.prototype.Universal-Links": {
+        "paths":[ "*" ]
+      }
+    }
+  }
+}
